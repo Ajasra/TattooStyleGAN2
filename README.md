@@ -1,4 +1,4 @@
-## StyleGAN2 &mdash; Official TensorFlow Implementation
+## StyleGAN2 &mdash; Official TensorFlow Implementation (tattoo model)
 
 <a href="https://open-app.runwayml.com/?model=Vasily/Tattoo_stylegan2" target="_blank"><img src="https://open-app.runwayml.com/gh-badge.svg" /></a>
 
