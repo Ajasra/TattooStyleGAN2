@@ -2,7 +2,7 @@
 
 <a href="https://open-app.runwayml.com/?model=Vasily/Tattoo_stylegan2" target="_blank"><img src="https://open-app.runwayml.com/gh-badge.svg" /></a>
 
-![Teaser image](./docs/stylegan2-teaser-1024x256.png)
+![Teaser image](./docs/fakes005244.jpg)
 
 **Analyzing and Improving the Image Quality of StyleGAN**<br>
 Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila<br>
